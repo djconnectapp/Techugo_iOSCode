@@ -1,0 +1,622 @@
+/*
+
+ 
+ 
+ 
+*/
+
+//MARK: - SIDEMENU
+"mainlogolbl"="حيث الاتصال الفنان ودي جي";
+
+"DJ MENU" = "دي جي قائمة طعام";
+"ARTIST MENU" = "قائمة الفنانين";
+"Account" = "الحساب";
+"Financials" = "المالية";
+"Transaction History" = "تاريخ المعاملات";
+"Security" = "سلامة";
+"Settings" = "الإعدادات";
+"Blocked" = "انسداد";
+"Social" = "اجتماعي";
+"Help" = "مساعدة";
+"Feedback" = "تفاعلات";
+"LOGOUT" = "الانزلاق الى الخروج";
+"Language" = "لغة";
+
+//MARK: - Sidemenu Account
+
+"Account Type :" = "نوع الحساب :";
+"Payment due date :" = "التاريخ المحدد للدفع :";
+"NOTE:" = "ملحوظة:";
+
+//block page
+"unblock?"="رفع الحظر؟";
+
+//MARK: - Sidemenu Setting
+"SETTINGS" = "الإعدادات";
+"notifications via email" = "الإخطارات عبر البريد الإلكتروني";
+"ON" = "على";
+"OFF" = "إيقاف";
+
+
+//MARK: - Financials
+"How would you like to receive payments?" = "كيف تريد تلقي المدفوعات؟";
+"FINANCIALS" = "المالية";
+"Bank Account" = "حساب البنك";
+"PayPal" = "باي بال";
+"Apple Pay" = "أبل الدفع";
+"Google Pay" = "جوجل الدفع";
+"Cash App" = "التطبيق النقدية";
+"Square Cash" = "ساحة النقدية";
+"Venmo" = "Venmo";
+"Facebook Pay" = "دفع الفيسبوك";
+"received to date from DJ Connect" = "تلقى حتى الآن من دي جي اتصال";
+"to receive payments" = "لتلقي المدفوعات";
+"name on bank account" = "اسم على الحساب المصرفي";
+"routing number" = "رقم التوصيل";
+"account number" = "رقم حساب";
+"back" = "عودة";
+"+ add bank account"= "+ إضافة حساب مصرفي";
+
+//MARK: - Sidemenu Security
+"SECURITY" = "الأمان";
+"security email" = "البريد الإلكتروني";
+"security Current passsword"="كلمة المرور الحالية";
+"security New Password"="كلمة مرور جديدة";
+"security confirm New password"="تأكيد كلمة المرور الجديدة";
+"edit Email" = "تحرير البريد الإلكتروني";
+"edit password" = "تحرير كلمة المرور";
+
+//MARK: - Sidemenu Transaction History
+"TRANSACTION HISTORY" = "TRANSACTION HISTORY";
+"delivered" = "delivered";
+"order total" = "order total";
+
+
+//MARK: - Sidemenu Blocked
+
+"BLOCKED" = "مسدود";
+"Blocked users cannot view your profile and they cannot participate in your projects." = "لا يمكن للمستخدمين المحظورين عرض ملف التعريف الخاص بك ولا يمكنهم المشاركة في مشاريعك.";
+
+//MARK: - Sidemenu Social
+"SOCIAL" = "اجتماعي";
+"Connect with DJ Connect on our social  pages." = "اتصل بجهة اتصال DJ على صفحاتنا الاجتماعية.";
+
+
+//MARK: - Sidemenu Help
+"HELP" = "مساعدة";
+"FAQ" = "التعليمات";
+"Terms of Service" = "شروط الخدمة";
+"Policy" = "سياسات";
+
+//MARK: - Sidemenu Feedback
+"FEEDBACK" = "تفاعلات";
+"If you have any questions, concerns,need further assistance or would like to leave feedback to help us make this app even better, contacts us on our social networks or reach out to us at the email below." = "إذا كانت لديك أي أسئلة أو مخاوف أو بحاجة إلى مزيد من المساعدة أو ترغب في ترك تعليقات لمساعدتنا في جعل هذا التطبيق أفضل ، أو اتصل بنا على شبكاتنا الاجتماعية أو اتصل بنا على البريد الإلكتروني أدناه.";
+"TRANSACTION HISTORY" = "سجل المعاملات";
+
+//sidemenu finance artist
+"to make payment" = "لجعل الدفع";
+"+ add card" = "+ إضافة بطاقة";
+"  name on credit card" = "الاسم على بطاقة الائتمان";
+"  card number" = "رقم البطاقة";
+
+
+//MARK: - Welcome VC
+
+"Welcome to DJ Connect" = "مرحبا بكم في دي جي كونكت!";
+"Filter?" = "منقي؟";
+"DJNYC" = "دي جي مدينة نيويورك";
+"Where would you like to connect?" = "أين تريد الاتصال؟";
+"Lil'Banga" = "ليل بانجا";
+
+//MARK: - Calander VC
+// vw profile
+"PROFILE COMPLETE" = "لمحة كاملة";
+"Now that you have completed all steps. Below are instructions on how to add your project for artists to connect with you." = "الآن بعد أن أكملت جميع الخطوات. فيما يلي إرشادات حول كيفية إضافة مشروعك للفنانين للتواصل معك.";
+"1st - ADD CONNECT PROJECT" = "1st - إضافة مشروع اتصال";
+"Click on the date from your calendar. Enter the details of your project and add the connect project. Then, wait for artists to submit their music." = "انقر على التاريخ من التقويم الخاص بك. أدخل تفاصيل مشروعك وأضف مشروع الاتصال. ثم انتظر الفنانين لتقديم الموسيقى الخاصة بهم.";
+"2nd - ACCEPT/DON'T ACCEPT CONNECTS" = "الثانية - قبول / لا تقبل";
+"Once artists submit their music to connect with your project, listen and accept or don't accept it." = "بمجرد إرسال الفنانين لموسيقاهم للتواصل مع مشروعك ، استمع إليهم أو أقبلهم أو لا تقبلهم.";
+"3rd - COMPLETE PROJECT" = "الثالث - مشروع كامل";
+"When you have enough artist submissions for your connect project,click on the complete project button to end the project and stop submissions." = "عندما يكون لديك ما يكفي من عمليات إرسال الفنان لمشروع الاتصال الخاص بك ، انقر فوق الزر الكامل للمشروع لإنهاء المشروع وإيقاف عمليات الإرسال.";
+"4th. - DOWNLOAD" = "4. - تحميل";
+"Go to your project page and download all artists songs you've accepted by clicking on the download button under each artist's ." = "انتقل إلى صفحة المشروع وقم بتنزيل جميع أغاني الفنانين الذين قبلتهم بالنقر فوق زر التنزيل أسفل كل فنان.";
+"5th. - PLAY & VERIFY" = "5. - العب والتحقق";
+"After downloading the songs,play them at your event. While playing each song click on the verify button and go live to show proof to the artists." = "بعد تنزيل الأغاني ، قم بتشغيلها في هذا الحدث الخاص بك. أثناء تشغيل كل أغنية ، انقر فوق زر التحقق وانتقل مباشرة لإظهار الدليل للفنانين.";
+"6th. - GET PAID" = "6. - الحصول على أموال";
+"After each connect is verified, payment from the artist will be deposited into your account." = "بعد التحقق من كل اتصال ، سيتم إيداع المبلغ المدفوع من الفنان في حسابك.";
+"Show this next time?"="تظهر هذه المرة القادمة؟";
+"yes"="نعم";
+"no"="لا";
+"CLOSE"="أغلق";
+
+//Main screen localization
+
+"Edit"="تعديل";
+"Spin Limit - $1500"="تدور الحد - 1500 دولار";
+"ALL PROJECTS" = "جميع المشاريع";
+"CALENDAR"="التقويم";
+"SERVICES"="خدمات";
+"STATS"="احصائيات";
+"MEDIA"="وسائل الإعلام";
+"RECENT"="أحدث وسائل الإعلام";
+"VERIFIED"="تم التحقق";
+"AR_VERIFY_ACK"="تم التحقق من هذا الفنان بواسطة DJ Connect";
+"DJ_VERIFY_ACK"="تم التحقق من هذا DJ بواسطة DJ Connect";
+"Genre(s): "="النوع (الأنواع):";
+"Expected attendance - "="الحضور المتوقع -";
+"By "=" بواسطة";
+" to "=" إلى ";
+"PROJECT CANCELLED"="تم إلغاء المشروع";
+"PROJECT ENDED"="انتهى المشروع";
+"IN PROGRESS"="في تقدم";
+"PROJECT IN PROGRESS"="المشروع قيد التنفيذ";
+"PROJECT COMPLETED"="اكتمل المشروع";
+" | Joined "=" | انضم";
+"delete?"="حذف؟";
+
+//vw service
+"DJ Feedback"="دي جي سونغ | رد فعل / مراجعة";
+"Want a professional"="هل تريد نظرة احترافية حول مدى جودة أغانيك حقًا؟ أرسلها للتعليقات من منظور الدي جي ذوي الخبرة العالية في معرفةهل تريد نظرة احترافية حول مدى جودة أغنيتك حقًا؟ قم بتقديمه للمراجعة من منظور منسقي الموسيقى الذين يتمتعون بأعلى خبرة في معرفة ما يريد العالم سماعه. سوف يستجيب DJ برد فعل فيديو مباشر أو مسجل لتنزيله.";
+"DJ Drops"="دي جي قطرات";
+"Need a DJ"="تحتاج إلى DJ للترويج لألبومك أو الحدث؟ يمكنك استئجار لي القيام DJ قطرة والحصول على الكلمة لجميع المشجعين حول مشروعك. استئجار لي أن أكون صوت الترويج الخاص بك اليوم.";
+"feedback from DJ NYC"="ردود الفعل من DJ NYC";
+"DJ Drop from DJ NYC"="دي جي إسقاط من DJ نيويورك";
+"price -"="السعر - ";
+
+//MARK: - SIGN In VC
+
+"Artist Forgot Password"="الفنان نسيت كلمة المرور";
+"DJ Forgot Password"="نسيت كلمة المرور";
+"email"="البريد الإلكتروني";
+"Send"="إرسال";
+"Home"="الصفحة الرئيسية";
+"Sign In"="تسجيل الدخول";
+"Join"="انضم";
+
+// verify
+"Artist Join"="الفنان الانضمام";
+"DJ Join"="دي جي الانضمام";
+"enter_confermation"="أدخل تأكيدا من النص";
+"Accept Terms"="قبول الشروط";
+"Forgot Password"="هل نسيت كلمة المرور";
+
+// join with phoneNumber
+
+"enter telephone number"="أدخل رقم الهاتف";
+"Next"="التالى";
+
+//join with email
+"name"="اسم";
+"date of birth"="تاريخ الولادة";
+"confirm email"="تأكيد عنوان البريد الإلكتروني";
+"password"="كلمه السر";
+"confirm password"="تأكيد كلمة المرور";
+
+//join with Ac
+"Sign Up with Email"="سجل عن طريق البريد الإلكتروني";
+"Sign Up with Facebook"="اشترك عبر حساب فايسبوك";
+"Sign Up with Google"="اشترك مع جوجل";
+"Email"="البريد الإلكتروني";
+"Password"="كلمه السر";
+"Continue"="استمر";
+
+"with Email"="مع البريد الإلكتروني";
+"with Facebook"="مع الفيسبوك";
+"with Google"="مع جوجل";
+
+//calendar VC - media screen
+"Audio"="سمعي";
+"Video"="فيديو";
+"The User has no video to display at this time."="المستخدم ليس لديه فيديو لعرضه في هذا الوقت.";
+"The User has no audio to display at this time."="ليس لدى المستخدم صوت لعرضه في الوقت الحالي.";
+"Audio - You are allowed one audio sample for your DJ Drop. You may add the file, or replace the existing audio. You have no audio files, click edit to add your audio."="الصوت - يُسمح لك بعينة صوت واحدة لـ DJ Drop. يمكنك إضافة الملف ، أو استبدال الصوت الموجود. ليس لديك ملفات صوتية ، انقر فوق تحرير لإضافة الصوت الخاص بك.";
+"You have no audio to display at this time."="ليس لديك صوت لعرضه في هذا الوقت.";
+"You have no video to display at this time."="ليس لديك فيديو لعرضه في هذا الوقت.";
+"dj video detail"="يتم حفظ مقاطع الفيديو المباشرة التي تتحقق منها للفنانين في قسم الفيديو. يمكنك حذف مقاطع الفيديو في هذا القسم. إذا لم يكن كذلك ، فسيتم حذفها تلقائيًا بعد فترة من الوقت.";
+"artist video detail"="تحقق مقاطع الفيديو المباشرة من دي جي من تسجيلك في قسم الفيديو. يمكنك حذف مقاطع الفيديو في هذا القسم. إذا لم يكن كذلك ، فسيتم حذفها تلقائيًا بعد فترة من الوقت.";
+"dj song name"="دي جي إسقاط عينة";
+"artist song name"="غيتو غيتو (غير محررة)";
+"media artist genre name"="Hip-Hop, R&B, Pop";
+"media dj genre name"="Gospel,Hip-Hop,Pop";
+
+//favorite screen VC
+"favorite main"="مفضل";
+"fav artist"="الفنانين";
+"fav dj"="DJs";
+"Faved Me"= "فشلني";
+"fav project"="مشاريع";
+
+//add project VC
+"POST"="بريد";
+"Add a Flyer"="إضافة نشرة من مشروع الصورة";
+"project title"="ربط عنوان المشروع";
+"project detail"="تفاصيل المشروع (أخبرنا عن هذا المشروع.)";
+"Project Info"="معلومات المشروع";
+"Project Type"="نوع المشروع";
+"Expected Audience"="الجمهور المتوقع";
+"Venue Info"="معلومات المكان";
+"Name of Venue"="اسم المكان";
+"Event Date and Time"="تاريخ الحدث ووقته";
+"Start"="بداية";
+"End"="النهاية";
+"Venue Address"="عنوان الشارع";
+"Display Address?"="عرض العنوان؟";
+"YES"="نعم";
+"NO"="لا";
+"connect Info"="ربط المعلومات";
+"Currency"="عملة";
+"Price"="السعر";
+"Restriction"="تقييد";
+"song Genre"="نوع أغنية (اختيار أغنية واحدة أو أكثر)";
+"additional info"="معلومة اضافية. (IE: أغنية واحدة فقط لكل فنان)";
+"Additional Info text"="معلومات إضافية";
+"Accept_Offer_Text"="قبول العروض من الفنانين؟";
+
+//select project type VC
+"Select Post Type"="اختر نوع المنشور";
+"Open Connect"="افتح الاتصال";
+"Open Detail"="تتيح مشاريع Open Connect لجميع الفنانين تقديم الموسيقى لك للموافقة أو عدم الموافقة على الموسيقى التي سيتم عرضها في هذا المشروع.";
+"open button"="حدد فتح الاتصال";
+
+//profile page VC - main
+"EDIT"="تعديل";
+"Profile"="الشخصي";
+"Services"="خدمات";
+"Media"="الإعلام";
+"SAVE"="حفظ";
+"P"="پ";
+"S"="س";
+"M"="م";
+
+//profile page VC - profile
+"Profile Dj Name"="اسم المستخدم";
+"Profile Artist Name"="اسم المستخدم";
+"Home City"="مسقط";
+"Current City"="المدينة الحالية";
+"Music genre"="أنواع الفن والموسيقى)";
+"Profile bio"="السيرة الذاتية الخاصة بك (أخبرنا عنك.)";
+"Connect your social"="ربط الشبكة الاجتماعية الخاصة بك أدناه.";
+
+//profile page VC - Service
+"service dj feedback"="ردود الفعل DJ";
+"About Feedback"="حول (ملاحظات DJ)";
+"service dj drop"="قطرات DJ";
+"About drop"="حول (DJ Drops)";
+// use currency and price(usd) from other
+
+//profile page VC - Media
+"my media"="بلدي وسائل الإعلام";
+"media audio"="سمعي";
+"media video"="فيديو";
+"media video detail dj"="ليس لديك أي مقاطع فيديو في هذا القسم. عند التحقق من مقاطع الفيديو للفنانين ، فسيظهرون هنا.";
+"media video detail ar"="لا يوجد لديك مقاطع فيديو في هذا القسم. عندما يحمّل DJ فيديو التحقق ، سيظهر في هذا القسم.";
+"replace"="يحل محل";
+"autodeletein"="الحذف التلقائي بتنسيق";
+"download"="تحميل";
+"ar_media audio ack"="يُسمح لك بتقديم أغنية صوتية واحدة لمشاريع DJ. يمكنك إضافة أغنية جديدة ، استبدال أغنية موجودة.";
+"ar_media video ack"="يتم حفظ مقاطع الفيديو الحية التي تتحقق من دي جي لك في هذا القسم. يمكنك تنزيل أو حذف مقاطع الفيديو هذه. إذا لم يكن الأمر كذلك ، فسيتم حذف مقاطع الفيديو تلقائيًا بعد فترة زمنية.";
+"dj_media audio ack"="يُسمح لك بعينة صوت واحدة لـ DJ Drop. يمكنك إضافة الملف ، أو استبدال الأغنية الموجودة.";
+"dj_media video ack"="يتم حفظ مقاطع الفيديو الحية التي تتحقق منها للفنانين في قسم الفيديو. يمكنك حذف مقاطع الفيديو في هذا القسم. إذا لم يكن الأمر كذلك ، فسيتم حذفهم تلقائيًا بعد فترة زمنية.";
+"user_no_audio"="ليس لديك صوت لعرضه في هذا الوقت.";
+"Audio - "=" صوت -";
+"Video - "=" فيديو -";
+//audio video general
+
+//profile page VC - Pop up profile
+"profile incomplete"="ملف تعريف غير كامل!";
+"popup dj ack"="لاستخدام DJ Connect بالكامل والسماح للفنانين بالاتصال بك ، أكمل المعلومات المدرجة أدناه.";
+"popup artist ack"="لاستخدام DJ Connect بالكامل والتواصل مع DJs في منطقتك ، ستحتاج إلى إكمال المعلومات";
+"profile_incomplete"="الشخصية (غير مكتملة).";
+"dj profile text"="إنهاء ملف التعريف الخاص بك لنشر مشروع للفنانين للاتصال.";
+"artist finish profile"="إنهاء ملف التعريف الخاص بك حتى يعرف دي جي من أنت.";
+"finish profile"="الانتهاء من الملف الشخصي";
+"payment_incomplete"="دفع (غير مكتملة).";
+"dj payment text"="إضافة تفاصيل الدفع لقبول المال من الفنانين.";
+"artist payment text"="إضافة الدفع لدفع دي جي.";
+"Skip"="تخطى";
+
+//profile page VC - Service
+"no service"="لا خدمات";
+"no service detail"="لا توجد خدمات متاحة في هذا الوقت. سنضيف خدمات للفنانين في المستقبل. التحقق مرة أخرى في وقت لاحق.";
+
+//profile page VC - Add media
+"dj click button"="انقر فوق الزر أعلاه لإضافة نموذج إسقاط DJ.";
+"artist click button"="انقر فوق الزر أعلاه لإضافة أغنيتك.";
+"add media dj video detail"="ليس لديك أي مقاطع فيديو في هذا القسم. عند التحقق من مقاطع الفيديو للفنانين ، فسيظهرون هنا.";
+"add media artist video detail"="ليس لديك أي مقاطع فيديو في هذا القسم.";
+
+//profile page VC - Name Audio
+"Add Audio"="إضافة الصوت";
+"name of audio"="اسم الصوت";
+"Back"="عودة";
+"Add"="إضافة";
+
+//profile page VC - Action Sheet
+"Online Storage"="مخزن علي الانترنت";
+"Camera Roll"="فلم الة التصوير";
+"Cancel"="إلغاء";
+
+//DummyVC - View Artist
+"ENDS IN"="ينتهي في";
+"View Full Image"="عرض الصورة كاملة";
+"Purchase Spin"="شراء تدور";
+"Directions"="الاتجاهات";
+"Share"="شارك";
+"PROJECT TYPE"="نوع المشروع";
+"PROJECT INFO"="معلومات المشروع";
+"VENU INFO"="تأتي معلومات";
+"CONNECT INFO"="معلومات الاتصال";
+"SPECIAL INFORMATION"="معلومات خاصة";
+
+//DummyVC - Project Details
+"Compete Project"="تنافس المشروع";
+"Cancel Project"="الغاء المشروع";
+"CONNECT SUBMISSIONS"="توصيل الطلبات";
+"TYPE: "=" اكتب:";
+"AUDIENCE (expected): "=" الجمهور (متوقع):";
+"NAME: "=" اسم:";
+"DATE: "=" تاريخ:";
+"TIME: "=" زمن:";
+"LOCATION: "=" موقعك:";
+"GENRE(s): "=" النوع (الأنواع):";
+"Event on: "=" حدث في:";
+"None"="لا شيء";
+"COST(Per Spin): "=" التكلفة (لكل دورة):";
+"RESTRICTIONS: "=" قيود:";
+
+//Toasts
+"Please check your Internet Connection"="الرجاء التحقق من اتصال الانترنت الخاص بك";
+"Please enter your email."="رجاءا أدخل بريدك الإلكتروني.";
+"Invalid Email Format"="تنسيق البريد الإلكتروني غير صالح";
+"Please enter valid password."="الرجاء إدخال كلمة مرور صالحة.";
+"Please enter valid name"="الرجاء إدخال اسم صالح";
+"Please enter valid Date of Birth"="الرجاء إدخال تاريخ الميلاد صالح";
+"Please Enter confirm Email."="الرجاء إدخال تأكيد البريد الإلكتروني.";
+"Email and Confirm Email doesnot match."="البريد الإلكتروني وتأكيد البريد الإلكتروني غير متطابقين.";
+"Enter password of length 6-18 characters."="أدخل كلمة المرور بطول 6-18 حرفًا.";
+"Password and Confirm password doesnot match"="كلمة المرور وتأكيد كلمة المرور غير متطابقين";
+"Please enter number"="الرجاء إدخال الرقم";
+"Please enter valid email."="الرجاء إدخال بريد إلكتروني صحيح.";
+"Please enter name"="من فضلك ادخل الاسم";
+"Please enter user name"="الرجاء إدخال اسم المستخدم";
+"Please enter home city"="الرجاء إدخال المدينة الرئيسية";
+"Please enter current city"="الرجاء إدخال المدينة الحالية";
+"Please enter music genre"="الرجاء إدخال نوع الموسيقى";
+"Please enter your bio"="الرجاء إدخال الحيوية الخاصة بك";
+"Screen Not Integrated."="الشاشة غير متكاملة.";
+"Enter Project Title"="أدخل عنوان المشروع";
+"Enter Project Detail"="أدخل تفاصيل المشروع";
+"Enter Project Type"="أدخل نوع المشروع";
+"Enter Expected Audiance"="أدخل التدقيق المتوقع";
+"Enter Venue Name"="أدخل اسم المكان";
+"Enter Date and Time"="أدخل التاريخ والوقت";
+"Enter Start Time"="أدخل وقت البدء";
+"Enter End Time"="أدخل وقت الانتهاء";
+"Enter Venue Address"="أدخل عنوان المكان";
+"Enter Restriction"="أدخل تقييد";
+"Enter Song Genre"="أدخل أغنية النوع";
+"Enter Currency"="أدخل العملة";
+"Enter Price"="أدخل السعر";
+"Please enter current password"="الرجاء إدخال كلمة المرور الحالية";
+
+"Select Genre"="حدد النوع";
+"Add All"="إضافة الجميع";
+"Finish"="ينهي";
+"Go to your profile and add your location to turn on services." = "انتقل إلى ملف التعريف الخاص بك وأضف موقعك لتشغيل الخدمات.";
+
+//languages
+"Select Language"="اختار اللغة";
+"Arabic"="عربى";
+"Bengali"="بنغالي";
+"French"="فرنسي";
+"Hindi"="الهندية";
+"English"="English";
+"Malay"="الملاي";
+"Mandarin"="اليوسفي";
+"Portuguese"="البرتغالية";
+"Russian"="الروسية";
+"Spanish"="الأسبانية";
+
+//delete post
+"DELETE POST"="حذف آخر";
+"Delete_Post_Detail"="اسحب لليسار في مشاركتك لإظهار زر الحذف. بعد ذلك ، انقر فوق زر الحذف. ثم تأكد من حذف المنشور نهائيًا من التقويم الخاص بك.";
+"ok got it"="حسنا ، حصلت عليه";
+
+//sign-In main
+"Artists"="الفنانين";
+"DJs"="DJs";
+
+//extra
+"Edit"="تعديل";
+"+ Fav"="+ مفضل";
+"Free"="مجانا";
+"account note"="حسابك المجاني يخولك تحميل صوت واحد لعينة إسقاط DJ الخاصة بك. يمكنك استبدال هذا في أي وقت.";
+
+//artist tutorial
+"artist tutorial ack"="الآن بعد أن أكملت جميع الخطوات. فيما يلي إرشادات حول كيفية الاتصال بـ DJs باستخدام تطبيق DJ connect.";
+"1st - SEARCH"="1st - بحث";
+"search by entering"="ابحث عن طريق إدخال المدينة أو الولاية أو البلد أو الكلمة الرئيسية للعثور على دي جي في جميع أنحاء العالم.";
+"2nd - CLICK"="2nd - انقر";
+"click the green"="انقر فوق علامة التبويب الخضراء الموجودة على الخريطة في الموقع الذي تريده وعرض مشاريع الاتصال.";
+"3rd - SWIPE"="3rd - مرر بسرعة";
+"Swipe left"="مرر لليسار لعرض صفحة DJ ، أو ربط الصفحة ، أو لشراء موسيقاك وتوصيلها بمشروع DJ هذا.";
+"Exit"="خروج";
+
+//artist filter page
+"Filter Results"="تصفية النتائج";
+"RESET"="إعادة تعيين";
+"filter Song Genre(s)"="أغنية النوع";
+"Minimum Attendance"="Minimum Attendance - I would like at least                                 people attending.";
+"click to enter"="انقر للدخول";
+"Connect limit"="Connect limit - The most I would like to pay for a connect is:                                 .      ";
+"Project Types(s)"="أنواع المشاريع";
+//genre types
+"Blues"="البلوز";
+"Classical"="كلاسيكي";
+"Country"="بلد";
+"Folk"="قوم";
+"Gospel"="الإنجيل";
+"Hip Hop"="هيب هوب";
+"Jazz"="موسيقى الجاز";
+"Latin"="لاتينية";
+"Pop"="البوب";
+"R&B"="R & B";
+"Rock"="صخرة";
+//project type
+"Album"="الألبوم";
+"CelebrationParty"="حفلة احتفالية";
+"Concert"="حفلة موسيقية";
+"Event"="حدث";
+"Festival"="مهرجان";
+"Radio"="مذياع";
+"Show (Movie/TV)"="عرض (فيلم / تلفزيون)";
+"Other"="آخر";
+
+"Report"="نقل";
+"Block"="منع";
+"Miles"="اميال";
+"10 Miles"="10 اميال";
+"20 Miles"="20 اميال";
+"30 Miles"="30 اميال";
+"40 Miles"="40 اميال";
+"50 Miles"="50 اميال";
+
+"The maximum you can add a project is 7 days from today. Please select a date within this range."="الحد الأقصى الذي يمكنك من خلاله إضافة مشروع هو 7 أيام من اليوم. يرجى تحديد تاريخ ضمن هذا النطاق.";
+
+"Please select yes or no."="يرجى اختيار نعم أو لا.";
+
+
+//Buy screen
+"buyaddaudioack"="أدخل اسم أغنيتك. ثم ، انقر فوق رمز الموسيقى لإضافة أغنيتك والاتصال.";
+"Song Submission"="تقديم الأغنية";
+"buyStep3ack"="تم إخطار DJ بإرسالك وما زال حتى انقضاء الوقت أدناه لقبول اتصالك أو عدم قبوله. إذا لم يكن الأمر كذلك ، فسيتم سحب هذا الاتصال وسيتم رد دفعتك.";
+"buyStep3ackDone"="أكمل Dj الاتصال الخاص بك لمشروعهم. انقر فوق الزر عرض الاتصال للذهاب لعرض الفيديو والتحقق منه وتنزيله.";
+"buystep5ack1"="كيف كان هذا مشروع الاتصال؟";
+"buystep5ack2"="قيم رضاك العام عن هذا الاتصال.";
+"buyExplainRating"="اشرح تقييمك";
+"btnRateProject"="مشروع معدل";
+"step1of5"="الخطوة 1 من 5";
+"step2of5"="الخطوة 2 من 5";
+"step3of5"="الخطوة 3 من 5";
+"step4of5"="الخطوة 4 من 5";
+"step5of5"="الخطوة 5 من 5";
+"COST :"="كلفة :";
+"Project Price: "=" سعر المشروع:";
+"Transaction Fee:"=" رسوم التحويل:";
+"Total:"="مجموع:";
+"Confirm"="تؤكد";
+"BACK"="عودة";
+"SUBMIT"="إرسال";
+"Reason"="السبب";
+"DJ Notification"="إعلام DJ";
+"DJ Response"="استجابة DJ";
+"Project Complete"="اكتمل المشروع";
+"The time for this project has expired. Your payment has been refunded."="انتهى وقت هذا المشروع. تم اعادة دفعتك المالية.";
+"The DJ accepted your connect for their project. Wait for step 4 to verify your song was played."="وافق DJ على اتصالك بمشروعهم. انتظر الخطوة 4 للتحقق من تشغيل أغنيتك.";
+"Your connect was not accepted."="لم يتم قبول الاتصال الخاص بك.";
+"CONNECT ACCEPTED"="تم قبول الاتصال";
+"NOT ACCEPTED"="غير مقبول";
+"TIME EXPIRED"="انتهى الوقت";
+"VIEW CONNECT"="عرض الاتصال";
+"Enter Offer:"="أدخل العرض:";
+
+//Drop Screen
+"dropStep3Detail1"="تم إخطار DJ بإرسالك وما زال حتى انقضاء الوقت أدناه لقبول اتصالك أو عدم قبوله. إذا لم يكن الأمر كذلك ، فسيتم سحب هذا الاتصال وسيتم رد دفعتك.";
+"dropStep3Detail2"="DJ ، انقر فوق زر التحميل أدناه لإرفاق الصوت المسجل لـ DJ Drop";
+"dropFinal"="تم الانتهاء من DJ Drop الخاص بك. اضغط هنا للاستماع.";
+"Upload DJ Drop"="تحميل DJ Drop";
+"COMPLETE"="اكتمال";
+"dropstep1of4"="الخطوة 1 من 4";
+"dropstep2of4"="الخطوة 2 من 4";
+"dropstep3of4"="الخطوة 3 من 4";
+"dropstep4of4"="الخطوة 4 من 4";
+
+// dj/ar stats
+"# of Total Projects"="عدد المشاريع الإجمالية";
+"Avg. Time on App"="متوسط الوقت على التطبيق";
+"# of Users Faved You"="# من المستخدمين أشادك";
+"# of Profile Views"="عدد مشاهدات الملف الشخصي";
+"TOP USER"="أفضل مستخدم";
+"LAST MONTH"="الشهر الماضي";
+
+//dj proj detail sub screen
+"dj_wait_ack"="أنت في انتظار ربط عمليات الإرسال. استمع إلى الفنان ثم اسحب لليمين وانقر لقبول أو اسحب لليسار وانقر على عدم القبول.";
+"dj_accept_ack"="أنت في عمليات إرسال الاتصال المقبولة. بمجرد قبول جميع الفنانين الذين تحتاجهم لهذا المشروع ، انقر فوق زر إكمال المشروع. بمجرد اكتمال المشروع ، يمكنك التنزيل واللعب والتحقق من اتصال كل فنان للحصول على أموال.";
+"dj_reject_ack"="أنت غير مقبول ربط عمليات الإرسال. عند النقر لإكمال هذا المشروع ، سيتم مسح أي شخص في هذا القسم.";
+"dj_connect_ack"="أنت متصل بفنانين ، وهذا يعني أن مشروعك قد اكتمل. يمكنك الاحتفاظ بصورة الفنان ثم سحبها وإفلاتها بالترتيب الذي تخطط للعب به والتحقق منها. بعد ذلك ، قم بتنزيل أغنيتهم. عندما تكون في الحدث ، قم بتشغيل الأغنية وانقر لبدء البث المباشر وتحقق من كل فنان تقوم بتشغيله. بمجرد استلام الفنان لفيديو التحقق ، سيتم إيداع الدفع لهذا المشروع في حسابك.";
+"ARTIST CONNECTED"="الفنان متصل";
+"dj_wait"="فنانون ينتظرون";
+"dj_accept"="الفنانين المقبولين";
+"dj_reject"="فنان غير مقبول";
+"dj_connect"="فنانون متصلون";
+"Reason_1"="العرض منخفض جدًا. إعادة التقديم بسعر أعلى.";
+"Reason_2"="جودة الأغنية منخفضة للغاية. أعد إرسال الأغنية بجودة أفضل.";
+"Reason_3"="الأغنية ليست لجميع الجماهير. أعد إرسال الأغنية المحررة.";
+"Reason_4"="الأغنية ليست مناسبة لهذا الحدث.";
+"Reason_5"="بدون سبب.";
+"Ok"="حسنا";
+"Song_Download"="تحميل";
+"Song_Verify"="تحقق";
+
+//ar proj detail sub screen
+"ar_wait"="انت في قسم الانتظار. بمجرد أن يتخذ DJ قرارًا بشأن ما إذا كنت مناسبًا لهذا المشروع ، ستتلقى إشعارًا.";
+"ar_accept"="لقد تم قبولك في هذا المشروع. عندما يقوم DJ بتشغيل أغنيتك في الحدث ، سيتم إخطارك لعرضها وتوصيلها مباشرة.";
+"ar_reject"="لم يتم قبول الاتصال الخاص بك. إذا أعطى DJ سببًا ، فاقرأه ، وصحح أغنيتك وأرسلها مرة أخرى. أو يمكنك محاولة إرسال أغنية مختلفة.";
+"ar_connect"="سيتم عرض جميع الفنانين المقبولين في هذا المشروع في هذا القسم.";
+
+//alert
+"Select all"="اختر الكل";
+"new"="جديد";
+"old"="قديم";
+"Go"="اذهب";
+
+//song review
+"Song_Review_Ack"="أدخل اسم أغنيتك. ثم انقر فوق رمز الموسيقى لإضافة أغنيتك للمراجعة.";
+"SongReview_Time"="تم إخطار DJ بتقديمك ولديه 72 ساعة لإكمال المراجعة. إذا لم يكن الأمر كذلك ، فسيتم سحب هذا الطلب واسترداد مدفوعاتك.";
+"SongReview_Email"="DJ ، البريد الإلكتروني أو تشغيل الأغنية. ثم انقر فوق الزر المباشر أدناه لبث تعليقك مباشرة أو زر التحميل لإرفاق مراجعة فيديو مسجلة.";
+"SongReview_Live"="مراجعة مباشرة";
+"SongReview_Video"="تحميل مراجعة الفيديو";
+"SongReview_Done"="رد فعلك / مراجعتك كاملة. اضغط هنا للاستماع.";
+"Or"="أو";
+
+"Buy a Connect" = "شراء الاتصال";
+"Buy a Song Review" = "شراء مراجعة كلمات";
+"View My Profile" = "مشاهدة ملفي الشخصي";
+"Go to My Alerts" = "الذهاب إلى تنبيهات بلدي";
+"Learn about DJ Connect" = "تعرف على الاتصال";
+"Post a Connect" = "أضف إلى الاتصال";
+"View Song Review Page" = "عرض كلمات مراجعة الصفحة";
+"Go to My Profile" = "الذهاب إلى ملفي الشخصي";
+"I WOULD LIKE TO..." = "وأود أن...";
+"CommingSoon" = "ستتوفر هذه الوظيفة قريبًا";
+
+//Ashitesh
+"Log In DJ" = "DJ تسجيل الدخول";
+"Sign Up DJ" = "DJ سجل";
+"DJ Enter Date of Birth to Sign Up" = "أدخل تاريخ الميلاد للتسجيل DJ";
+"Or Use" = "او استعمل";
+"By continuing you agree to our Terms of Use and Privacy Policy." = "من خلال الاستمرار ، فإنك توافق على شروط الاستخدام وسياسة الخصوصية الخاصة بنا";
+"BACK HOME"= "العودة للوطن";
+"Enter Email" = "أدخل البريد الإلكتروني";
+"BACK" = "الى الخلف";
+"Re-enter Email" = "أعد إدخال البريد الإلكتروني";
+"Enter Username" = "ادخل اسم المستخدم";
+"Enter password" = "أدخل كلمة المرور";
+"Re-enter Password" = "اعادة ادخال كلمة السر";
+"Select Genre" = "حدد النوع";
+"Electro" = "إلكترو";
+"Rap" = "موسيقى الراب";
+"Techno" = "تقنية";
+"Reggae" = "الريغي";
+"Finish" = "ينهي";
+"Add All" = "إضافة الجميع";
+"Log In" = "تسجيل الدخول";
+"Enter Telephonic number" = "أدخل الرقم الهاتفي";
+"Welcome DJ" = "!DJ أهلا بك";
+"Welcome Artist" = "!مرحبا بالفنان";
+"Log In Artist" = "تسجيل دخول الفنان";
+"Sign Up Artist" = "تسجيل الفنان";
+"Artist Enter Date of Birth to Sign Up" = "الفنان أدخل تاريخ الميلاد للتسجيل";
+"Select a Country" = "اختر دولة";
+"Username or email" = "اسم المستخدم أو البريد الالكتروني";
+"Forgot password?" = "هل نسيت كلمة السر؟";

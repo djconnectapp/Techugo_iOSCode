@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_0" orientation="portrait" appearance="dark"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="kIU-we-MDy">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="NewiOSSplash" translatesAutoresizingMaskIntoConstraints="NO" id="pgx-Vl-0YJ">
+                                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="pgx-Vl-0YJ" firstAttribute="top" secondItem="kIU-we-MDy" secondAttribute="top" id="KCT-3z-8lt"/>
+                                    <constraint firstItem="pgx-Vl-0YJ" firstAttribute="leading" secondItem="kIU-we-MDy" secondAttribute="leading" id="PRk-dc-LBu"/>
+                                    <constraint firstAttribute="bottom" secondItem="pgx-Vl-0YJ" secondAttribute="bottom" id="YgS-Ga-YcN"/>
+                                    <constraint firstAttribute="trailing" secondItem="pgx-Vl-0YJ" secondAttribute="trailing" id="wRW-kT-e2d"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" red="0.01849550195" green="0.028527095910000001" blue="0.13474422690000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="kIU-we-MDy" secondAttribute="trailing" id="2pk-Cb-pid"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="kIU-we-MDy" secondAttribute="bottom" id="Lrh-Wz-zsv"/>
+                            <constraint firstItem="kIU-we-MDy" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="gik-pK-EBW"/>
+                            <constraint firstItem="kIU-we-MDy" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="uqI-9Q-tVl"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="NewiOSSplash" width="250" height="547"/>
+    </resources>
+</document>

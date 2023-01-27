@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>281277673046-n0sm7t2o2drvf89r0decit2r2klsnsr4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.281277673046-n0sm7t2o2drvf89r0decit2r2klsnsr4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>281277673046-1pvgr8h25j85nvvv7vqf6gg52h3nig8f.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC3KQ5AKBsDLs_tmnRz3ozifHS5K5Wq7GM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>281277673046</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.DjConnectApp</string>
+	<key>PROJECT_ID</key>
+	<string>djconnect-androi-1631857486135</string>
+	<key>STORAGE_BUCKET</key>
+	<string>djconnect-androi-1631857486135.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:281277673046:ios:91ddb2940eace8e193d5f7</string>
+</dict>
+</plist>

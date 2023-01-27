@@ -1,0 +1,639 @@
+/*
+
+ 
+ 
+*/
+
+
+//MARK: - SIDEMENU
+
+"mainlogolbl"="Where Artists and DJs connect";
+
+"DJ MENU" = "DJ MENU";
+"Account" = "Account";
+"Financials" = "Financials";
+"Transaction History" = "Transaction History";
+"Security" = "Security";
+"Settings" = "Settings";
+"Blocked" = "Blocked";
+"Social" = "Social";
+"Help" = "Help";
+"Feedback" = "Feedback";
+"LOGOUT" = "slide to logout";
+"Language" = "Language";
+
+//MARK: - Sidemenu Account
+"Account Type :" = "Account Type :";
+"Payment due date :" = "Payment due date :";
+"NOTE:" = "NOTE:";
+
+//block page
+"unblock?"="unblock?";
+
+//MARK: - Sidemenu Setting
+"SETTINGS" = "Settings";
+"notifications via email" = "notifications via email";
+"ON" = "ON";
+"OFF" = "OFF";
+
+
+//MARK: - Financials
+"How would you like to receive payments?" = "How would you like to receive payments?";
+"Bank Account" = "Bank Account";
+"PayPal" = "PayPal";
+"Apple Pay" = "Apple Pay";
+"Google Pay" = "Google Pay";
+"Cash App" = "Cash App";
+"Square Cash" = "Square Cash";
+"Venmo" = "Venmo";
+"Facebook Pay" = "Facebook Pay";
+"received to date from DJ Connect" = "received to date from DJ Connect";
+"to receive payments" = "to receive payments";
+"name on bank account" = "name on bank account";
+"routing number" = "routing number";
+"account number" = "account number";
+"back" = "BACK";
+"+ add bank account" = "+ add bank account";
+
+//MARK: - Sidemenu Security
+"SECURITY" = "Security";
+"security email" = "email";
+"security Current passsword"="Current Password";
+"security New Password"="New Password";
+"security confirm New password"="Confirm New Password";
+"edit Email" = "edit Email";
+"edit password" = "edit password";
+
+//MARK: - Sidemenu Transaction History
+"TRANSACTION HISTORY" = "TRANSACTION HISTORY";
+"delivered" = "delivered";
+"order total" = "order total";
+
+//MARK: - Sidemenu Blocked
+
+"BLOCKED" = "BLOCKED";
+"Blocked users cannot view your profile and they cannot participate in your projects." = "Blocked users cannot view your profile and they cannot participate in your projects.";
+
+//MARK: - Sidemenu Social
+"SOCIAL" = "SOCIAL";
+"Connect with DJ Connect on our social  pages." = "Connect with DJ Connect on our social  pages.";
+
+//MARK: - Sidemenu Help
+"HELP" = "HELP";
+"FAQ" = "FAQ";
+"Terms of Service" = "Terms of Service";
+"Policy" = "Policy";
+
+//MARK: - Sidemenu Feedback
+"FEEDBACK" = "FEEDBACK";
+"If you have any questions, concerns,need further assistance or would like to leave feedback to help us make this app even better, contacts us on our social networks or reach out to us at the email below." = "If you have any questions, concerns,need further assistance or would like to leave feedback to help us make this app even better, contacts us on our social networks or reach out to us at the email below.";
+
+"TRANSACTION HISTORY" = "TRANSACTION HISTORY";
+
+//sidemenu finance artist
+"to make payment" = "to make payment";
+"+ add card" = "+ add card";
+"  name on credit card" = "  name on credit card";
+"  card number" = "  card number";
+
+
+//MARK: - Welcome VC
+
+
+"Welcome to DJ Connect" = "Welcome to DJ Connect";
+"Filter?" = "Filter?";
+"DJNYC" = "DJNYC";
+"Where would you like to connect?" = "Where would you like to connect?";
+"Lil'Banga" = "Lil'Banga";
+
+//MARK: - Calander VC
+// vw profile
+"PROFILE COMPLETE" = "PROFILE COMPLETE";
+"Now that you have completed all steps. Below are instructions on how to add your project for artists to connect with you." = "Now that you have completed all steps. Below are instructions on how to add your project for artists to connect with you.";
+"1st - ADD CONNECT PROJECT" = "1st - ADD CONNECT PROJECT";
+"Click on the date from your calendar. Enter the details of your project and add the connect project. Then, wait for artists to submit their music." = "Click on the date from your calendar. Enter the details of your project and add the connect project. Then, wait for artists to submit their music.";
+"2nd - ACCEPT/DON'T ACCEPT CONNECTS" = "2nd - ACCEPT/DON'T ACCEPT CONNECTS";
+"Once artists submit their music to connect with your project, listen and accept or don't accept it." = "Once artists submit their music to connect with your project, listen and accept or don't accept it.";
+"3rd - COMPLETE PROJECT" = "3rd - COMPLETE PROJECT";
+"When you have enough artist submissions for your connect project,click on the complete project button to end the project and stop submissions." = "When you have enough artist submissions for your connect project,click on the complete project button to end the project and stop submissions.";
+"4th. - DOWNLOAD" = "4th. - DOWNLOAD";
+"Go to your project page and download all artists songs you've accepted by clicking on the download button under each artist's ." = "Go to your project page and download all artists songs you've accepted by clicking on the download button under each artist's .";
+"5th. - PLAY & VERIFY" = "5th. - PLAY & VERIFY";
+"After downloading the songs,play them at your event. While playing each song click on the verify button and go live to show proof to the artists." = "After downloading the songs,play them at your event. While playing each song click on the verify button and go live to show proof to the artists.";
+"6th. - GET PAID" = "6th. - GET PAID";
+"After each connect is verified, payment from the artist will be deposited into your account." = "After each connect is verified, payment from the artist will be deposited into your account.";
+"Show this next time?"="Show this next time?";
+"yes"="yes";
+"no"="no";
+"CLOSE"="CLOSE";
+
+//Main screen localization
+
+"Edit"="Edit";
+"Spin Limit - $1500"="Spin Limit - $1500";
+"ALL PROJECTS" = "ALL PROJECTS";
+"CALENDAR"="CALENDAR";
+"SERVICES"="Services";
+"STATS"="Stats";
+"MEDIA"="MEDIA";
+"RECENT"="Recent Media";
+"VERIFIED"="VERIFIED";
+"AR_VERIFY_ACK"="This Artist has been verified by DJ Connect";
+"DJ_VERIFY_ACK"="This DJ has been verified by DJ Connect";
+"Genre(s): "="Genre(s): ";
+"Expected attendance - "="Expected attendance - ";
+"By "="By ";
+" to "=" to ";
+"PROJECT CANCELLED"="PROJECT CANCELLED";
+"PROJECT ENDED"="PROJECT ENDED";
+"IN PROGRESS"="IN PROGRESS";
+"PROJECT IN PROGRESS"="PROJECT IN PROGRESS";
+"PROJECT COMPLETED"="PROJECT COMPLETED";
+" | Joined "=" | Joined ";
+"delete?"="delete?";
+
+//vw service
+"DJ Feedback"="DJ Song | Reaction/Review";
+"Want a professional"="Want a professional outlook on how good your song really is? Submit it for a review from the perspective of DJs with the highest expertise in knowing what the world wants to hear. The DJ will respond with a live or recorded video reaction for you to download.";
+"DJ Drops"="DJ Drops";
+"Need a DJ"="Need a DJ to promote  your album or event? You can hire me do a DJ Drop and get the word out to all the fans about your project. Hire me to be the voice of your promotion today.";
+"feedback from DJ NYC"="feedback from DJ NYC";
+"DJ Drop from DJ NYC"="DJ Drop from DJ NYC";
+"price - "="price - ";
+
+//MARK: - SIGN In VC
+
+"Artist Forgot Password"="Artist Forgot Password";
+"DJ Forgot Password"="DJ Forgot Password";
+"email"="Email";
+"Send"="Send";
+"Home"="Home";
+"Sign In"="Sign In";
+"Join"="Join";
+// verify
+"Artist Join"="Artist Join";
+"DJ Join"="DJ Join";
+"enter_confermation"="enter confirmation from text";
+"Accept Terms"="Accept Terms";
+"Forgot Password"="Forgot Password";
+
+// join with phoneNumber
+
+"enter telephone number"="Enter Telephone Number";
+"Next"="Next";
+
+//join with email
+"name"="Name";
+"date of birth"="Date of birth";
+"confirm email"="Confirm Email";
+"password"="Password";
+"confirm password"="Confirm Password";
+
+//join with Ac
+"Sign Up with Email"="Sign Up with Email";
+"Sign Up with Facebook"="Sign Up with Facebook";
+"Sign Up with Google"="Sign Up with Google";
+
+
+"Email"="Email";
+"Password"="Password";
+"Continue"="Continue";
+
+"with Email"="with Email";
+"with Facebook"="with Facebook";
+"with Google"="with Google";
+
+//calendar VC - media screen
+"Audio"="Audio";
+"Video"="Video";
+"The User has no video to display at this time."="The User has no video to display at this time.";
+"The User has no audio to display at this time."="The User has no audio to display at this time.";
+"Audio - You are allowed one audio sample for your DJ Drop. You may add the file, or replace the existing audio. You have no audio files, click edit to add your audio."="Audio - You are allowed one audio sample for your DJ Drop. You may add the file, or replace the existing audio. You have no audio files, click edit to add your audio.";
+"You have no audio to display at this time."="You have no audio to display at this time.";
+"You have no video to display at this time."="You have no video to display at this time.";
+"dj video detail"="Live videos you verify for artists are saved in the video section. You may delete the videos in this section. If not, they will autodelete after a period of time.";
+"artist video detail"="Live Videos DJs verify for you are saved in the video section. You may delete the videos in this section. If not they will autodelete after a period of time.";
+"dj song name"="DJ Drop Sample";
+"artist song name"="Ghetto Ghetto(Unedited)";
+"media artist genre name"="Hip-Hop, R&B, Pop";
+"media dj genre name"="Gospel,Hip-Hop,Pop";
+
+//favorite screen VC
+"favorite main"="Favorites";
+"fav artist"="Artists";
+"fav dj"="DJs";
+"Faved Me"= "Faved Me";
+"fav project"="Projects";
+
+//add project VC
+"POST"="POST";
+"Add a Flyer"="Add a Flyer of Project Photo";
+"project title"="Connect Project Title";
+"project detail"="Project Details (Tell us about this Project.)";
+"Project Info"="Project Info";
+"Project Type"="Project Type";
+"Expected Audience"="Expected Audience";
+"Venu Info"="Venue Info";
+"Name of Venue"="Name of Venue";
+"Event Date and Time"="Event Date and Time";
+"Start"="Start";
+"End"="End";
+"Venue Address"="Venue Address";
+"Display Address?"="Display Address?";
+"YES"="YES";
+"NO"="NO";
+"connect Info"="Connect Info";
+"Currency"="Currency";
+"Price"="Price";
+"Restriction"="Restriction";
+"song Genre"="Song Genre(s) (select 1 or more)";
+"additional info"="Additional Information. (IE: Only 1 song per artist)";
+"Additional Info text"="Additional Info";
+"Accept_Offer_Text"="Accept Offers from Artists?";
+
+//select project type VC
+"Select Post Type"="Select Post Type";
+"Open Connect"="Open Connect";
+"Open Detail"="Open Connect projects allows all artist to submit music for you to approve or not approve the music to be featured in this project.";
+"open button"="Select Open Connect";
+
+//profile page VC - main
+"EDIT"="EDIT";
+"Profile"="Profile";
+"Services"="Services";
+"Media"="Media";
+"SAVE"="SAVE";
+"P"="P";
+"S"="S";
+"M"="M";
+
+//profile page VC - profile
+"Profile Dj Name"="UserName";
+"Profile Artist Name"="UserName";
+"Home City"="Home City";
+"Current City"="Current City";
+"Music genre"="Music Genre(s)";
+"Profile bio"="Your Bio (Tell us about you.)";
+"Connect your social"="Connect your social network below.";
+
+//profile page VC - Service
+"service dj feedback"="DJ Feedback";
+"About Feedback"="About (DJ Feedback)";
+"service dj drop"="DJ Drops";
+"About drop"="About (DJ Drops)";
+"About Remix"="About (DJ Remix)";
+// use currency and price(usd) from other
+
+//profile page VC - Media
+"my media"="My Media";
+"media audio"="Audio";
+"media video"="Video";
+"media video detail dj"="You have no videos in this section. When you verify videos for artists they will show here.";
+"media video detail ar"="You have no videos in this section. When the DJ uploads your verification video it will appear in this section.";
+"replace"="replace";
+"autodeletein"="autodelete in";
+"download"="download";
+"ar_media audio ack"="You are allowed 1 audio song to submit for DJ Projects. You may add a new song, replace an existing song.";
+"ar_media video ack"="Live videos that DJs verify for you are saved in this section. You may download or delete these videos. If not, videos will autodelete after a period of time.";
+"dj_media audio ack"="You are allowed 1 audio sample for your DJ Drop. You may add the file, or replace the existing song.";
+"dj_media video ack"="Live videos you verify for artists are saved in the video section. You may delete the videos in this section. If not, they will autodelete after a period of time.";
+"user_no_audio"="You has no audio to display at this time.";
+"Audio - "="Audio - ";
+"Video - "="Video - ";
+//audio video general
+
+//profile page VC - Pop up profile
+"profile incomplete"="PROFILE INCOMPLETE!";
+"popup dj ack"="To fully use DJ Connect and allow artists to connect with you, complete the information listed below.";
+"popup artist ack"="To fully use DJ Connect and connect with DJs in your area, you will need to complete the information";
+"profile_incomplete"="PROFILE(incomplete).";
+"dj profile text"="Finish your profile to post a project for artists to connect.";
+"artist finish profile"="Finish your profile so DJs know who you are.";
+"finish profile"="finish profile";
+"payment_incomplete"="PAYMENT(incomplete).";
+"dj payment text"="Add Payment details to accept money from artists.";
+"artist payment text"="Add Payment to pay the DJs.";
+"Skip"="Skip";
+
+//profile page VC - Service
+"no service"="No Services";
+"no service detail"="There are no services available at this time. We will be adding services for artists in the future. Check back later.";
+
+//profile page VC - Add media
+"dj click button"="Click the button above to add a DJ Drop Sample.";
+"artist click button"="Click the button above to add your song.";
+"add media dj video detail"="You have no videos in this section. When you verify videos for artists they will show here.";
+"add media artist video detail"="You have no videos in this section.";
+
+//profile page VC - Name Audio
+"Add Audio"="Add Audio";
+"name of audio"="NAME OF AUDIO";
+"Back"="Back";
+"Add"="Add";
+
+//profile page VC - Action Sheet
+"Online Storage"="Online Storage";
+"Camera Roll"="Camera Roll";
+"Cancel"="Cancel";
+
+//DummyVC - View Artist
+"ENDS In"="ENDS IN";
+"View Full Image"="View Full Image";
+"Purchase Spin"="Purchase Spin";
+"Directions"="Directions";
+"Share"="Share";
+"PROJECT TYPE"="PROJECT TYPE";
+"PROJECT INFO"="PROJECT INFO";
+"VENU INFO"="VENUE INFO";
+"CONNECT INFO"="CONNECT INFO";
+"SPECIAL INFORMATION"="SPECIAL INFORMATION";
+
+//DummyVC - Project Details
+"Compete Project"="Compete Project";
+"Cancel Project"="Cancel Project";
+"CONNECT SUBMISSIONS"="CONNECT SUBMISSIONS";
+"TYPE: "="TYPE: ";
+"AUDIENCE (expected): "="AUDIENCE (expected): ";
+"NAME: "="NAME: ";
+"DATE: "="DATE: ";
+"TIME: "="TIME: ";
+"LOCATION: "="LOCATION: ";
+"GENRE(s): "="GENRE(s): ";
+"Event on: "="Event on: ";
+"None"="None";
+"COST(Per Spin): "="COST(Per Connect): ";
+"RESTRICTIONS: "="RESTRICTIONS: ";
+
+//Toasts
+"Please check your Internet Connection"="Please check your Internet Connection";
+"Please enter your email."="Please enter your email.";
+"Invalid Email Format"="Invalid Email Format";
+"Please enter valid password."="Please enter valid password.";
+"Please enter valid name"="Please enter valid name";
+"Please enter valid Date of Birth"="Please enter valid Date of Birth";
+"Please Enter confirm Email."="Please Enter confirm Email.";
+"Email and Confirm Email doesnot match."="Email and Confirm Email doesnot match.";
+"Enter password of length 6-18 characters."="Enter password of length 6-18 characters.";
+"Password and Confirm password doesnot match"="Password and Confirm password doesnot match";
+"Please enter number"="Please enter number";
+"Please enter valid email."="Please enter valid email.";
+"Please check your Internet Connection"="Please check your Internet Connection";
+"Please enter name"="Please enter username";
+"Please enter user name"="Please enter user name";
+"Please enter home city"="Please enter home city";
+"Please enter current city"="Please enter current city";
+"Please enter music genre"="Please enter music genre";
+"Please enter your bio"="Please enter your bio";
+"Screen Not Integrated."="Screen Not Integrated.";
+"Enter Project Title"="Enter Project Title";
+"Enter Project Detail"="Enter Project Detail";
+"Enter Project Type"="Enter Project Type";
+"Enter Expected Audiance"="Enter Expected Audiance";
+"Enter Venue Name"="Enter Venue Name";
+"Enter Date and Time"="Enter Date and Time";
+"Enter Start Time"="Enter Start Time";
+"Enter End Time"="Enter End Time";
+"Enter Venue Address"="Enter Venue Address";
+"Enter Restriction"="Enter Restriction";
+"Enter Song Genre"="Enter Song Genre";
+"Enter Currency"="Enter Currency";
+"Enter Price"="Enter Price";
+"Please enter current password"="Please enter current password";
+
+"Select Genre"="Select Genre";
+"Add All"="Add All";
+"Finish"="Finish";
+"Go to your profile and add your location to turn on services." = "Go to your profile and add your location to turn on services.";
+
+//languages
+"Select Language"="Select Language";
+"Arabic"="عربى";
+"Bengali"="Bengali";
+"French"="French";
+"Hindi"="Hindi";
+"English"="English";
+"Malay"="Malay";
+"Mandarin"="Mandarin";
+"Portuguese"="Portuguese";
+"Russian"="Russian";
+"Spanish"="Spanish";
+
+//delete post
+"DELETE POST"="DELETE POST";
+"Delete_Post_Detail"="Swipe left on your post to show the delete button. Next, click the delete button. Then confirm to permanently delete the post from your calendar.";
+"ok got it"="OK, Got it";
+
+//sign-In main
+"Artists"="Artists";
+"DJs"="DJs";
+
+//extra
+"Edit"="Edit";
+"+ Fav"="+ Fav";
+"Free"="Free";
+"account note"="Your free account entities you to 1 audio upload for your DJ drop sample. You can replace this at any time.";
+
+//artist tutorial
+"artist tutorial ack"="Now that you have completed all steps. Below are instructions on how to connect with DJs using the DJ connect app.";
+"1st - SEARCH"="1st - SEARCH";
+"search by entering"="Search by entering the city, state, country or keyword to find DJs all over the world.";
+"2nd - CLICK"="2nd - CLICK";
+"click the green"="Click the green tab found on the map in the desired location you want and view the connect projects.";
+"3rd - SWIPE"="3rd - SWIPE";
+"Swipe left"="Swipe left to view the DJ page , connect page or to buy and connect your music with that DJ's project.";
+"Exit"="Exit";
+
+//artist filter page
+"Filter Results"="Filter Results";
+"RESET"="RESET";
+"filter Song Genre(s)"="Song Genre(s)";
+"Minimum Attendance"="Minimum Attendance - I would like at least                                 people attending.";
+"click to enter"="click to enter";
+"Connect limit"="Connect limit - The most I would like to pay for a connect is:                                 .      ";
+"Project Types(s)"="Project Types(s)";
+//genre types
+"Blues"="Blues";
+"Classical"="Classical";
+"Country"="Country";
+"Folk"="Folk";
+"Gospel"="Gospel";
+"Hip Hop"="Hip Hop";
+"Jazz"="Jazz";
+"Latin"="Latin";
+"Pop"="Pop";
+"R&B"="R&B";
+"Rock"="Rock";
+
+
+//project type
+"Album"="Album";
+"CelebrationParty"="CelebrationParty";
+"Concert"="Concert";
+"Event"="Event";
+"Festival"="Festival";
+"Radio"="Radio";
+"Show (Movie/TV)"="Show (Movie/TV)";
+"Other"="Other";
+
+"Report"="Report";
+"Block"="Block";
+"Miles"="Map Radius";
+"10 Miles"="10 Miles";
+"20 Miles"="20 Miles";
+"30 Miles"="30 Miles";
+"40 Miles"="40 Miles";
+"50 Miles"="50 Miles";
+
+"The maximum you can add a project is 7 days from today. Please select a date within this range."="The maximum you can add a project is 7 days from today. Please select a date within this range.";
+
+"Please select yes or no."="Please select yes or no.";
+
+//Buy screen
+"buyaddaudioack"="Enter the name of your song. Then, click the music icon to add your song and connect.";
+"Song Submission"="Song Submission";
+"buyStep3ack"="The DJ has been notified of your submission and has until the time below expires to accept or not accept your connect. If not, this connect will be withdrawn and your payment refunded.";
+"buyStep3ackDone"="The Dj has completed your connect for their project. Click the view connect button to go view, verify and download the video.";
+"buystep5ack1"="How was this connect project?";
+"buystep5ack2"="Rate your overall satisfaction with this connect.";
+"buyExplainRating"="Explain your rating";
+"btnRateProject"="RATE PROJECT";
+"step1of5"="STEP 1 OF 5";
+"step2of5"="STEP 2 OF 5";
+"step3of5"="STEP 3 OF 5";
+"step4of5"="STEP 4 OF 5";
+"step5of5"="STEP 5 OF 5";
+"COST :"="COST :";
+"Project Price: "="Project Price: ";
+"Transaction Fee:"="Transaction Fee:";
+"Total:"="Total:";
+"Confirm"="Confirm";
+"BACK"="BACK";
+"SUBMIT"="SUBMIT";
+"Reason"="Reason";
+"DJ Notification"="DJ Notification";
+"DJ Response"="DJ Response";
+"Project Complete"="Project Complete";
+"The time for this project has expired. Your payment has been refunded."="The time for this project has expired. Your payment has been refunded.";
+"The DJ accepted your connect for their project. Wait for step 4 to verify your song was played."="The DJ accepted your connect for their project. Wait for step 4 to verify your song was played.";
+"Your connect was not accepted."="Your connect was not accepted.";
+"CONNECT ACCEPTED"="CONNECT ACCEPTED";
+"NOT ACCEPTED"="NOT ACCEPTED";
+"TIME EXPIRED"="TIME EXPIRED";
+"VIEW CONNECT"="VIEW CONNECT";
+"Enter Offer:"="Enter Offer:";
+
+//Drop Screen
+"dropStep3Detail1"="The DJ has been notified of your submission and has until the time below expires to accept or not accept your connect. If not, this connect will be withdrawn and your payment refunded.";
+"dropStep3Detail2"="DJ, click the upload button below to attach the recorded audio for the DJ Drop";
+"dropFinal"="Your DJ Drop is complete. Click Here to Listen.";
+"Upload DJ Drop"="Upload DJ Drop";
+"COMPLETE"="COMPLETE";
+"dropstep1of4"="STEP 1 OF 4";
+"dropstep2of4"="STEP 2 OF 4";
+"dropstep3of4"="STEP 3 OF 4";
+"dropstep4of4"="STEP 4 OF 4";
+
+
+// dj/ar stats
+"# of Total Projects"="# of Total Projects";
+"Avg. Time on App"="Avg. Time on App";
+"# of Users Faved You"="# of Users Faved You";
+"# of Profile Views"="# of Profile Views";
+"TOP USER"="TOP USER";
+"LAST MONTH"="LAST MONTH";
+
+//dj proj detail sub screen
+"dj_wait_ack"="You're in waiting connect submissions. Listen to the artist then swipe right and click to accept or swipe left and click to not accept.";
+"dj_accept_ack"="You're in accepted connect submissions. Once you have accepted all the artists you need for this project click the start project button. Once the project is start, you can download, play and verify each artist connect to get paid.";
+"dj_reject_ack"="You're in not accepted connect submissions. When you click to complete this project, anyone in this section will be cleared.";
+"dj_connect_ack"="You're in artists connected.This means your project is complete. you may hold the artist picture then drag and drop them in the order of which you plan to play and verify them. Next, download their song. When you're at the event, play the song and click to go live and verify each artist you play. Once the artist receives the verification video, payment for this project will be deposited into your account.";
+"ARTIST CONNECTED"="ARTIST CONNECTED";
+"dj_wait"="Artists Waiting";
+"dj_accept"="Artists Accepted";
+"dj_reject"="Artists Not Accepted";
+"dj_connect"="Artists Connected";
+"Reason_1"="1. Offer too low. Resubmit with a higher price.";
+"Reason_2"="2. Song quality too low. Resubmit the song in a better quality.";
+"Reason_3"="3. Song is not for all audiences. Resubmit the song edited.";
+"Reason_4"="4. The song is not a fit for this event.";
+"Reason_5"="5. No reason.";
+"Ok"="Ok";
+"Song_Download"="Download";
+"Song_Verify"="Verify";
+
+//ar proj detail sub screen
+"ar_wait"="You are in the waiting section. Once the DJ has made a decision if you are fit for this project, you will receive a notification.";
+"ar_accept"="You have been accepted to this project. When the DJ plays your song at their event, you will be notified to view and connect live.";
+"ar_reject"="Your connect was not accepted. If the DJ gave a reason, read it, correct your song and submit it again. Or, you may try and submit a different song.";
+"ar_connect"="All artists accepted for this project will be shown in this section.";
+
+//alert
+"Select all"="Select all";
+"new"="new";
+"old"="old";
+"Go"="Go";
+
+//song review
+"Song_Review_Ack"="Enter the name of your song. Then, click the music icon to add your song for review.";
+"SongReview_Time"="The DJ has been notified of your submission and has 72 hours to complete the review. If not, this request will be withdrawn and your payment refunded.";
+"SongReview_Email"="DJ, email or play song. Then click the live button below to stream your review live or the upload button to attach a recorded video review.";
+"SongReview_Live"="Live Review";
+"SongReview_Video"="Upload Video Review";
+"SongReview_Done"="Your reaction/review is complete. Click HERE to Listen.";
+"Or"="Or";
+
+//Dj Financial:
+"ConnectCashAck"="Conect Cash available from DJ Connect";
+"Add Connect Cash"="Add Connect Cash";
+"Cash Out Amount"="Cash Out Amount";
+"Connect Cash"="Connect Cash";
+"Cash Out"="Cash Out";
+"expiration"="expiration";
+"code"="code";
+"- or use -"="- or use -";
+"process payment"="process payment";
+"dj_note_cashout"="NOTE: - Cash outs can take 2+ business days depending on your bank";
+"dj_SelectAcc"="Select an account from below to cash out your money to.";
+"Buy a Connect" = "Buy a Connect";
+"Buy a Song Review" = "Buy a Song Review";
+"View My Profile" = "View My Profile";
+"Go to My Alerts" = "Go to My Alerts";
+"Learn about DJ Connect" = "Learn About DJ Connect";
+"Post a Connect" = "Post a Connect";
+"View Song Review Page" = "View Song Review Page";
+"Go to My Profile" = "Go to My Profile";
+"I WOULD LIKE TO..." = "I WOULD LIKE TO...";
+"CommingSoon" = "This Functionality will be available soon";
+
+// Ashitesh
+"Log In DJ" = "Log In DJ";
+"Sign Up DJ" = "Sign Up DJ";
+"DJ Enter Date of Birth to Sign Up" = "DJ Enter Date of Birth to Sign Up";
+"Or Use" = "Or Use";
+"By continuing you agree to our Terms of Use and Privacy Policy." = "By Continuing you agree to our Terms of Use and Privacy Policy.";
+"BACK HOME"= "BACK HOME";
+"Enter Email" = "Enter Email";
+"BACK" = "BACK";
+"Re-enter Email" = "Re-enter Email";
+"Enter Username" = "Enter Username";
+"Enter password" = "Enter password";
+"Re-enter Password" = "Re-enter Password";
+"Select Genre" = "Select Genre";
+"Electro" = "Electro";
+"Rap" = "Rap";
+"Techno" = "Techno";
+"Reggae" = "Reggae";
+"Finish" = "Finish";
+"Add All" = "Add All";
+"Log In" = "Log In";
+"Enter Telephonic number" = "Enter Telephonic number";
+"Welcome DJ" = "Welcome DJ!";
+"Welcome Artist!" = "Welcome Artist!";
+"Log In Artist" = "Log In Artist";
+"Sign Up Artist" = "Sign Up Artist";
+"Artist Enter Date of Birth to Sign Up" = "Artist Enter Date of Birth to Sign UP";
+"Select a Country" = "Select a Country";
+"Username or email" = "Username or email";
+"Forgot password?" = "Forgot password?";
+
+
